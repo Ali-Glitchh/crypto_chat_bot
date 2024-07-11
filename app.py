@@ -52,3 +52,4 @@ if input_text:
 
 # Display chat history
 response_container.text("\n".join(st.session_state.chat_history))
+
